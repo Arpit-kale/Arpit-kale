@@ -7,9 +7,8 @@
 </h3>
 
 <!-- GIF -->
-<p align="right">
-  <img align="right" height="400" width="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXpnZ2U0cjVydTJtc3hrcmZpa3dweTQ2Y2NqczhlazVyMHNucTJuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" />
-</p>
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+
 
 
 ### 🛠️ Languages and Tools
@@ -20,6 +19,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python" title="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/master/topics/groovy/groovy.png" alt="Groovy" title="Groovy" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" title="Java" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust" title="Rust" width="40" height="40"/>
 </p>
 
 #### Web & AI/ML Tools
